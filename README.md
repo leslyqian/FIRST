@@ -23,7 +23,6 @@
 
 ## Create Source Code Of pydlt645
 1、Create python project in eclipse IDE.
-File|New|Project -> PyDev Project
 2、Create the following folders and files.
 ![p3](http://i.imgur.com/f5PaZSQ.png)
 
