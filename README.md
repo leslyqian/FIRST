@@ -1808,21 +1808,27 @@ We can find debug message from the Console.
 ### Modify setup.py、setup_commands.py、ez_setup.py in pymodbus about some name and version infomation
 ### Install pydlt645 in Python-2.7 base on ubuntu16.04
 **~$cd pydlt645-master**
+
 **~/pydlt645-master$sudo python setup.py install**
 
 result1:
 ~$pip list
 
 ...
+
 pydlt645(1.0.0)
+
 ...
 
 result2:
 ~$cd /usr/local/lib/python2.7/dist-packages
+
 ~/usr/local/lib/python2.7/dist-packages$ls -al
 
 ...
+
 pydlt645-1.0.0-py2.7.egg
+
 ...
 
 ### Uninstall pydlt645 in Python-2.7 base on ubuntu16.04
