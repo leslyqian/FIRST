@@ -23,8 +23,11 @@
 
 ### Create Source Code Of pydlt645
 **reference pymodbus**
+
 1、Create python project in eclipse IDE.
+
 File|New|Project -> PyDev Project
+
 2、Create the following folders and files.
 
 ![p3](http://i.imgur.com/f5PaZSQ.png)
@@ -1811,6 +1814,7 @@ result1:
 ...
 pydlt645(1.0.0)
 ...
+
 result2:
 ~$cd /usr/local/lib/python2.7/dist-packages
 ~/usr/local/lib/python2.7/dist-packages$ls -al
@@ -1821,10 +1825,12 @@ pydlt645-1.0.0-py2.7.egg
 ### Uninstall pydlt645 in Python-2.7 base on ubuntu16.04
 Method1:
 **~$sudo pip uninstall pydlt645**
+
 (result1 and result2 above has been removed.)
 
 Method2:
 **~$sudo easy_install -m pydlt645**
+
 (result1 has been removed and result2 has not been removed)
 
 ### Test pydlt645 
