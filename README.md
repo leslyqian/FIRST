@@ -13,8 +13,8 @@
 [Download](https://eclipse.org/downloads/eclipse-packages/)
 ![p1](http://i.imgur.com/P4iRhIl.png)
 ### Installation of Eclipse plug-ins
-1、Run Eclipse by double clicking **eclipse.exe** in the Eclipse installation directory.
-2、Select menu command **Help | Eclipse** Marketplace. 
+1、Run Eclipse by double clicking **eclipse.exe** in the Eclipse installation directory.  
+2、Select menu command **Help | Eclipse** Marketplace.   
 3、In a dialog type search string **'pydev'** and click go.   
 ![p2](http://i.imgur.com/crLWFma.png)      
                                                                                                           
