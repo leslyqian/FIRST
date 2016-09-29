@@ -33,6 +33,7 @@ File|New|Project -> PyDev Project
 ![p3](http://i.imgur.com/f5PaZSQ.png)
 
 **Code:**
+
 pydlt645.\__init__.py
 ```ruby
 ''' Pydlt645: Dlt645 Protocol Implementation '''
@@ -1811,6 +1812,7 @@ We can find debug message from the Console.
 
 result1:
 ~$pip list
+
 ...
 pydlt645(1.0.0)
 ...
@@ -1818,6 +1820,7 @@ pydlt645(1.0.0)
 result2:
 ~$cd /usr/local/lib/python2.7/dist-packages
 ~/usr/local/lib/python2.7/dist-packages$ls -al
+
 ...
 pydlt645-1.0.0-py2.7.egg
 ...
@@ -1835,6 +1838,7 @@ Method2:
 
 ### Test pydlt645 
 ~$chmod 777 test.py
+
 ~$./test.py
 
 ## FAQ
