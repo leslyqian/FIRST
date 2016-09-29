@@ -22,14 +22,10 @@
 [Download](https://github.com/bashwork/pymodbus)
 
 ## Create Source Code Of pydlt645
-**reference pymodbus**
 1、Create python project in eclipse IDE.
 File|New|Project -> PyDev Project
-
 2、Create the following folders and files.
 ![p3](http://i.imgur.com/f5PaZSQ.png)
-
-**Code:**
 
 pydlt645.\__init__.py
 ```ruby
@@ -1804,8 +1800,8 @@ We can find debug message from the Console.
 ## Install Uninstall And Test pydlt645
 ### Modify setup.py、setup_commands.py、ez_setup.py in pymodbus about some name and version infomation
 ### Install pydlt645 in Python-2.7 base on ubuntu16.04
-**~$cd pydlt645-master**
-**~/pydlt645-master$sudo python setup.py install**
+~$cd pydlt645-master
+~/pydlt645-master$sudo python setup.py install
 
 result1:
 ~$pip list
@@ -1821,11 +1817,11 @@ pydlt645-1.0.0-py2.7.egg
 
 ### Uninstall pydlt645 in Python-2.7 base on ubuntu16.04
 Method1:
-**~$sudo pip uninstall pydlt645**
+~$sudo pip uninstall pydlt645
 (result1 and result2 above has been removed.)
 
 Method2:
-**~$sudo easy_install -m pydlt645**
+~$sudo easy_install -m pydlt645
 (result1 has been removed and result2 has not been removed)
 
 ### Test pydlt645 
