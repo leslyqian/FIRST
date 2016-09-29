@@ -25,8 +25,10 @@
 File|New|Project -> PyDev Project
 2、Create the following folders and files.
 ![p3](http://i.imgur.com/f5PaZSQ.png)
+
 **Code:**
-[constants.py](#pydlt645.exceptions.py)
+
+* [constants.py](#pydlt645.exceptions.py)
 pydlt645.\__init__.py
 
 pydlt645.exceptions.py
